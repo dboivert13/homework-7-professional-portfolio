@@ -1,4 +1,9 @@
 .nav {
-    color: black;
     background-color: black;
+}
+
+.card {
+   margin: auto;
+   margin-top: 10%;
+   opacity: 80%;
 }
